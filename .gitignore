@@ -1,0 +1,9 @@
+bin/
+obj/
+publish/
+publish-portable/
+*.user
+*.suo
+selftest.*
+scan-*.txt
+.vs/
