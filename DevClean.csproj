@@ -11,7 +11,7 @@
     <RootNamespace>DevClean</RootNamespace>
     <ApplicationManifest>app.manifest</ApplicationManifest>
     <ApplicationIcon>Assets\app.ico</ApplicationIcon>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Company>DevClean</Company>
     <Product>DevClean</Product>
     <Description>面向开发者的 Windows 磁盘清理工具</Description>

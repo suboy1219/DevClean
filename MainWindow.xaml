@@ -60,7 +60,7 @@
                                     CornerRadius="9"
                                     Padding="7,1"
                                     Margin="9,4,0,0">
-                                <TextBlock Text="v1.0"
+                                <TextBlock Text="v1.0.1"
                                            Foreground="#C7D2FE"
                                            FontSize="10" />
                             </Border>
@@ -125,6 +125,9 @@
                                    FontSize="10.5"
                                    FontWeight="SemiBold" />
                     </Border>
+
+                    <Button Content="帮助" Style="{StaticResource HeaderButton}"
+                            Click="HelpButton_Click" Margin="0,0,8,0" />
 
                     <Button Style="{StaticResource HeaderButton}"
                             Command="{Binding ScanCommand}"

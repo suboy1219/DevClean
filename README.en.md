@@ -149,3 +149,7 @@ Themes/            UI styles
 MainWindow.xaml    Main window
 docs/              README screenshots (demo data)
 ```
+
+## Check for updates
+
+Choose **Help → Check for updates** (帮助 → 检测更新) in the window. The app compares its version with the latest stable GitHub release and offers to open the release page when an update is available. It also reports missing releases and connection errors.
